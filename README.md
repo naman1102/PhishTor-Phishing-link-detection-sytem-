@@ -15,13 +15,13 @@ liac-arff==2.2.2
 ```
 
 ## Documentation
-* [Wiki - Complete reference](https://github.com/picopalette/phishing-detection-plugin/wiki)
+* [Wiki - Complete reference](https://github.com/naman1102/PhishTor-Phishing-link-detection-sytem-/wiki)
 * [Prepare the dataset](backend/dataset/)
 * [Train and Export the model](backend/classifier/)
 * [Install plugin](frontend/)
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/picopalette/phishing-detection-plugin/master/artifacts/pluginUI.png" alt="UI" height="400" width="250"></img>
+<img src="https://raw.githubusercontent.com/naman1102/PhishTor-Phishing-link-detection-sytem-/master/artifacts/pluginUI.png" alt="UI" height="400" width="250"></img>
 
 **F1 score:** 0.905
 
