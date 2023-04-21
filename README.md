@@ -8,7 +8,7 @@ This lite chrome plugin aims to detect phishing websites and warn the user. It i
 
 ## Requirements
 ```
-Python3.7
+Python3.11
 sklearn==0.19.2
 numpy==1.15.0
 liac-arff==2.2.2
