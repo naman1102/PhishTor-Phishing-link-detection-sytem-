@@ -10,7 +10,7 @@ body {
 #plugin_name {
     width: 330px;
     margin: 0 0;
-    background-color: #195975;
+    background-color: #4a1975;
 }
 h2 {
     margin-top: 20px;
@@ -79,5 +79,9 @@ iframe {
 a {
     text-align: center;
     display: block;
-    color: #195975
+    color: #4a1975;
+}
+
+.res-container{
+    padding: 5%;
 }
