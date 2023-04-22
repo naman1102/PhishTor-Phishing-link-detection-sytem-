@@ -21,7 +21,7 @@ liac-arff==2.2.2
 * [Install plugin](frontend/)
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/naman1102/PhishTor-Phishing-link-detection-sytem-/master/artifacts/pluginUI.png" alt="UI" height="400" width="250"></img>
+<img src="https://raw.githubusercontent.com/naman1102/PhishTor-Phishing-link-detection-sytem-/master/Report%2C%20Documents/pluginUI.png" alt="UI" height="400" width="250"></img>
 
 **F1 score:** 0.905
 
