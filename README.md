@@ -1,4 +1,4 @@
-# Phishing Site Detector Plugin 
+# Phishing Link Detector System (Chrome Extension)
 This lite chrome plugin aims to detect phishing websites and warn the user. It is built with a objective of privacy, so that the user browsing data need not collected for classification. The classification is done on the client side with one-time download of classifier model.
 
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout) ![Beta](https://img.shields.io/badge/beta-v1.0.01-blue.svg)
