@@ -29,3 +29,5 @@ Links to few phishing sites: [PDF](artifacts/url_list.pdf), [PhishTank](https://
 
 ### References
 [Intelligent phishing website detection using random forest classifier](https://ieeexplore.ieee.org/abstract/document/8252051/)
+
+### Created by @naman1102 & @thehimanshu23
